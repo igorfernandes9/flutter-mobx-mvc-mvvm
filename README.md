@@ -1,4 +1,4 @@
-# masflu
+# flutter-mobx-mvc-mvvm
 
 A new Flutter project.
 
